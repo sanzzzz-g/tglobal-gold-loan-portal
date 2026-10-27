@@ -1,0 +1,6 @@
+{
+  "name": "T Global Gold Loan Portal",
+  "description": "Explore gold loan schemes, calculate accurate valuations, apply seamlessly, consult the AI loan assistant, and manage applications in the administrative portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
